@@ -1,6 +1,9 @@
 # 用于描述一个三维空间下的线框对象
 # 本质上就是若干个结点，以及结点之间的连线
 
+# 测试工具
+# 每个步骤都需要构建可视化的测试，使用斜二侧画法构建测试图样
+
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont
 
